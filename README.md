@@ -1,5 +1,4 @@
 # CPU_Scheduler
-# CPU Scheduler Project
 
 ## Project Description
 
